@@ -1,0 +1,12 @@
+id: ""
+orgId: 3053
+name: monorepo-test-cli
+version: 1.0.0
+createdDate: ""
+handler: ""
+region: EU
+description: Hehe
+repository: monorepo-test-cli
+branch: main
+gitProvider: github
+gitOrganization: CharukaK
