@@ -1,0 +1,17 @@
+metadata:
+    org:
+        id: "3053"
+        handle: charukakarunanayake
+    displayName: server
+    displayType: ballerinaService
+    description: Hehe
+    version: 1.0.0
+    projectId: 5f66e9d6-dd87-4e37-8605-b02d70ef579b
+    accessibility: external
+    repository:
+        appSubPath: server
+        orgApp: CharukaK
+        nameApp: monorepo-test-cli
+        branchApp: main
+        gitProvider: github
+id: ""
