@@ -1,0 +1,17 @@
+metadata:
+    org:
+        id: "3053"
+        handle: charukakarunanayake
+    displayName: server
+    displayType: ballerinaService
+    description: ""
+    version: 1.0.0
+    projectId: ""
+    accessibility: external
+    repository:
+        appSubPath: server
+        orgApp: CharukaK
+        nameApp: monorepo-test-cli
+        branchApp: main
+        gitProvider: github
+id: ""
