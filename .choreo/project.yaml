@@ -1,11 +1,11 @@
-id: 5f66e9d6-dd87-4e37-8605-b02d70ef579b
+id: 6efa62a1-2528-4336-bcdd-49ca1ba23e0e
 orgId: 3053
 name: monorepo-test-cli
 version: 1.0.0
 createdDate: ""
 handler: ""
 region: US
-description: ""
+description: Hehe
 repository: monorepo-test-cli
 branch: main
 gitProvider: github
