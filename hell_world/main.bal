@@ -1,5 +1,4 @@
-port
-rt ballerina/http;
+import ballerina/http;
 
 type Greeting record {
     string 'from;
