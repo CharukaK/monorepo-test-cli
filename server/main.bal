@@ -1,9 +1,9 @@
 import ballerina/log;
 import ballerina/http;
 
-// configurable int port = ?;
+configurable int port = ?;
 
-service / on new http:Listener(8080) {
+service / on new http:Listener(port) {
 
     function init() {
         log:printInfo("service initialized, listening on port " + port.toString() + "...");
