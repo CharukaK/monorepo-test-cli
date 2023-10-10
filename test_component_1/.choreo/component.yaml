@@ -14,6 +14,6 @@ metadata:
         nameApp: monorepo-test-cli
         branchApp: main
         gitProvider: github
-id: ""
-handler: ""
+id: 0ebb8b33-4dca-4345-83f7-404aaac4eb09
+handler: ccznjp
 commitHash: ""
