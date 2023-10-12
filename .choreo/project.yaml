@@ -1,0 +1,12 @@
+id: ""
+orgId: 75
+name: monorepo-test-cli
+version: 1.0.0
+createdDate: ""
+handler: ""
+region: US
+description: Mono repo stuff
+repository: monorepo-test-cli
+branch: main
+gitProvider: github
+gitOrganization: CharukaK
