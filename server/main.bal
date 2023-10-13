@@ -10,6 +10,6 @@ service / on new http:Listener(port) {
     }
     // This function responds with `string` value `Hello, World!` to HTTP GET requests.
     resource function get greeting() returns string {
-        return "Hello, World!!!";
+        return "Hello, World!!";
     }
 }
